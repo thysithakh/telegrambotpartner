@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vibolstorebots",
+  "private_key_id": "2804dcd0b038cd0e5740934e7dd8cdc3e14b614e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCctPMhU4RETBq5\nH+PX4/9O0ORSqgjXUMOmJnkAR5Q1Ofp1U3+TcrnVfsBANYYJ+jslH+AKLwVEoEjD\nfA+EKXWe42/W5Lv1iWFofNvZAKOnv+cqc8HsfHhEm+3/No/s88N/TeBAunW8sTDJ\nlq9H4qEozNnTtpYz4cfur/wny/tnwnCYt3gnKBW8vxwImzqWbxIilVAb8YqNP1K6\nj1d57onvaxpYE1cq/pQfNCbUhUVc9/WxiixjKm4+H8SeTPV/+nRDQtu4jEysgHlv\niZmcvkEBCmm8DbL4Kp5anXnh2F+2WpmZ7YQKb/Xc9NGgOBz8DWkVe9TBmN5WyNFx\nSdOlxoU5AgMBAAECggEANftfhatvdNeCnSMPKd+wo0XyYUeRpBp+S04VgLMnqu4+\nCQyqdfCfc5wmPfgyJF2+4hsI4nkwJ2PPrQefkLd3fTR74lsJJJweog/g6+/8cFz7\nFPSraPu3smrEoZX6HnYaclAxYBrbVBT16XuvBeRb/+IRZ40OUPEGHoMhKdRq1mLq\nrrIoOKgVUq/I90HQNO7xZ/9EI3AJKlvLDxvGpwFhdil30q4fDdjZbFqeQHUUKCwt\nqqQHFulTy0ki9bi3FL0+tjtUioD2faTeHmOiOAP+mGwJegAL2HJf/X79EzwB4tzi\nRm0hbdXweNCoKOJCh0It3mRqwoExQwrZQhrHUgY9wQKBgQDQCwRQtHsrj7RPSncS\ntu92Vn8U13ZY7VLEdJ1y9maZR3iq8VOZHopXzUjEplu7uwOJcZgMJuaS5SXvgN/C\nasUDFT1drmUAB8zcnRxUGOANpD0DFrx8PuL1AWW1UNWgGLBik5s38R7X/CpR2jc1\nOx9spyh6NTuBUNFgF5kPTp2ElwKBgQDA1H514p2EFtl/6tUl+3LWI7XvZf+tbLRA\nIk6J8qhR/9FBivfI+vJt+SdRLnzDLXjNPQYQU6o+idDZTQK8RiVv3s2rsbvhbt56\nfpXnw6lUPgUUNRWjThLzX8LOVqsPGIIPb2CKkYXARgRdX+u61QPhkpYESjAk6bUU\nrGCmE+BurwKBgQC7Rc+CnpRpaBiVb6C0Nfxk+AO5TSL5ddiVg6vfurIstEuJBWeN\nZBKAawhgDKhy2yuZ46lM9w+Dl8aIS+ggaGAkIFB3Le85Ecx1ou/HPAUkAn3xc9wD\ns9A1YCagCr3iOZc9hUWqG+D558JooBgmUKw+8FHdgGGqTIfNCjD7uHbOzQKBgB3V\nwutCcNSrJGPiVbBWw2HWjKPJyFFw7EKwDC7T2K83QY0+jzANg8z4K9kntC4Orw4y\nTunfyAt9D09P1wiCYfB5LKFQEp3CpbGWPGNrppteLTL/M6XcwpndSyrZxgXD6Puy\nY+GMuoERVEOOP87cfok8QPHQ+Ln9XwMf2KRZlvQJAoGAYvl2+DZ18VYcYRErwm/W\niVCJI1ljS4LwZguqcJ6Mrs3mslRSdOxwSFsM3RrckO7AOWWNcjw2NELdWtpWnADm\nkFQITreFg3hka5AJFmMzYFsjgf15NOROsCybXffnLgbTYJoeGuMV5RfSzfzzRSAO\nFMLDb0oeBS4pUZizCABJiQ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zpimg@vibolstorebots.iam.gserviceaccount.com",
+  "client_id": "108003906416682340201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zpimg%40vibolstorebots.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
